@@ -1,4 +1,8 @@
-## Hi there 👋
+## Geny Ochoa
+Ingeniero Electrico Electronico, en proceso de aprendizaje de herramientas de desarrollo para mis proyectos personales y profesionales.
+
+[![Linkedin](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.linkedin.com/in/geny/)
+
 
 <!--
 **genyald/genyald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
