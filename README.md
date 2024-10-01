@@ -1,4 +1,4 @@
-## Geny Ochoa
+## Acerca de mi
 Ingeniero Electrico Electronico, en proceso de aprendizaje de herramientas de desarrollo para mis proyectos personales y profesionales.
 
 ### Contacto:
