@@ -13,25 +13,30 @@
 - 💻 VS Code
 - 🐍 Thonny
 - 🤖 Arduino
-- 🐧 Linux
-- 📓 Obsidian
-- 🔧 Proteus
+- 🐧 WSL
+- 🔧 Proteus Professional
 - 📊 Octave
-- 📦 Virtualbox
-- 🖥️ VMware
-- 💻 Kali Linux
-- 🔍 Metasploit
-- 🏗️ Autodesk
+- 📦 VirtualBox
+- 🖥️ VM Ware
+- 🐉 Kali Linux
+- 💥 Metasploit
+- 👁️ Nmap
+- 🔍 Nessus
+- 🏗️ Autodesk Fusion 360
 - 🎨 Adobe Photoshop
 - 🎬 Adobe Premiere Pro
-- 🖌️ Adobe Illustrator
+- 🖌️ Adobe Illustrator Pro
 - 🖼️ GIMP
 - ✒️ Inkscape
 - 📹 OBS Studio
-- 📄 Microsoft Word
-- 📐 BoxMath
-- 💻 C#
-- 🔪 Herramientas de corte
+- 📄 Paquetería de Office
+- 📓 Obsidian
+- 📐 Matlab
+- 🔌 Quartus
+- 💻 PIC C Compiler
+- 🔧 Fritzing
+- ✂️ Prusa Slicer
+- 🔪 Ultimaker Cura
 <!--
 **genyald/genyald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
